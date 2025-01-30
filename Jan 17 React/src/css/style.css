@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blueviolet;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    
+}
+nav ul li{
+      font-size: 30px;
+      list-style: none;
+}
