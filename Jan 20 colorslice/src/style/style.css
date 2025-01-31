@@ -1,0 +1,80 @@
+#Topbar{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    height: 40px;
+    background-color: rgb(65, 68, 224);
+    text-align: center;
+    padding: 10px;
+
+a{
+    text-decoration: none;
+    color: white;
+}
+}
+
+#counter{
+    width: 250px;
+    margin-top: 40px;
+    background-color: rgb(32, 194, 194);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-left: 40%;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+    button{
+        height: 40px;
+        background-color: rgb(89, 33, 142);
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        color: white;
+
+        &:hover{
+            cursor: pointer;
+            background-color: aqua;
+            color: blue;
+        }
+    }
+}
+
+#theme{
+    height: 70vh;
+    font-size: 20px;
+    h1{
+        color: blue;
+    }
+    input{
+        height: 30px;
+        background-color: aqua;
+        color: rgb(64, 11, 148);
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        &:hover{
+            cursor: pointer;    
+            background-color: rgb(84, 48, 202);
+            color: white;
+        }
+
+    }
+    button{
+        height: 40px;
+        background-color: rgb(89, 33, 142);
+        border: none;
+        width: 100px;
+        padding: 10px;
+        border-radius: 5px;
+        color: white;
+        box-shadow: 2px 2px 2px 2px black;
+
+        &:hover{
+            cursor: pointer;
+            background-color: aqua;
+            color: blue;
+        }
+    }
+}
