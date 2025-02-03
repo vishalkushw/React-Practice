@@ -1,0 +1,40 @@
+{
+    "student":[
+      {
+ 
+        "name":"vishal",
+        "branch":"MERN",
+        "fees":32000,
+        "city":"vidisha"
+      },
+      {
+ 
+        "name":"vishal",
+        "branch":"MERN",
+        "fees":32000,
+        "city":"vidisha"
+      },
+      {
+ 
+        "name":"vishal",
+        "branch":"MERN",
+        "fees":32000,
+        "city":"vidisha"
+      },
+      {
+ 
+        "name":"vishal",
+        "branch":"MERN",
+        "fees":32000,
+        "city":"vidisha"
+      },
+      {
+ 
+        "name":"vishal",
+        "branch":"MERN",
+        "fees":32000,
+        "city":"vidisha"
+      }
+        
+    ]
+}
