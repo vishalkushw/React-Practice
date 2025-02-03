@@ -1,0 +1,34 @@
+{
+    "student":[
+        {
+            "name":"vishal",
+            "class":"Btech",
+            "city":"vidisha",
+            "fees":45000
+        },
+        {
+            "name":"ram",
+            "class":"Btech",
+            "city":"sehore",
+            "fees":48000
+        },
+        {
+            "name":"sumit",
+            "class":"Btech",
+            "city":"Indore",
+            "fees":41000
+        },
+        {
+            "name":"sandeep",
+            "class":"Btech",
+            "city":"guna",
+            "fees":45000
+        },
+        {
+            "name":"Pawan",
+            "class":"Btech",
+            "city":"Bhopal",
+            "fees":47000
+        }
+    ]
+}
